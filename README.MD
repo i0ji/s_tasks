@@ -1,1 +1,1 @@
-07.03.25 refacotoring tasks repo;
+My compilation of Codewars, Yandex, Leetcode and other tasks on JS/TS;
